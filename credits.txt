@@ -1,0 +1,10 @@
+Place your name here:
+Max Rogers
+
+
+
+
+
+Then $ git add —all
+followed by $ git commit -m “Your Name: Added myself”
+followed by $ git push origin
